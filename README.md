@@ -2,6 +2,7 @@
 Project With the intention of putting into practice what was learned to make the crud of an api, in this project the client crud was made
 
 
+
 In this project contains the five basic operations: 
 
 .Resource page search
@@ -23,10 +24,14 @@ In this project contains the five basic operations:
 
 
 He has a test environment set up accessing the H2 database.
+
 Uses Mavem as dependency manager.
+
 Java being the language of this project.
 
+
 A seed of 10 customers was performed with "Significant" data.
+
 
 
 Class diagram: 
