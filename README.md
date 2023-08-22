@@ -3,7 +3,7 @@ Project With the intention of putting into practice what was learned to make the
 
 
 
-In this project contains the five basic operations: 
+This project contains the five basic operations: 
 
 .Resource page search
 
