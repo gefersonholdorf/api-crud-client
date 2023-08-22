@@ -6,13 +6,18 @@ In this project contains the five basic operations:
 
 .Resource page search
 
+
 .Resource search by id
+
 
 .Insert new feature
 
+
 .Update feature
 
+
 .Delete resource
+
 
 
 
@@ -22,6 +27,7 @@ Uses Mavem as dependency manager.
 Java being the language of this project.
 
 A seed of 10 customers was performed with "Significant" data.
+
 
 Class diagram: 
 
